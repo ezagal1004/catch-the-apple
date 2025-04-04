@@ -10,7 +10,12 @@
         "README.md",
         "assets.json",
         "tilemap.g.jres",
-        "tilemap.g.ts"
+        "tilemap.g.ts",
+        "apple-catcher.md",
+        "tutorials/apple-catcher/activity1.md",
+        "tutorials/apple-catcher/activity2.md",
+        "tutorials/apple-catcher/activity3.md",
+        "tutorials/apple-catcher/activity4.md"
     ],
     "testFiles": [
         "test.ts"

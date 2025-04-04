@@ -1,6 +1,3 @@
-# Apple Catcher Skillmap
-
-
 ## apple-catcher
 * name: Apple Catcher Game
 * description: Learn to create a fun apple catching game with Microsoft MakeCode Arcade!
